@@ -1,0 +1,13 @@
+.food,
+.pizza,
+.wings,
+.biryani  {
+    height: auto;
+    width: 60%;
+}
+
+.home {
+    color: #ffffff;
+    background-color: red;
+    font-size: 20px;
+}
