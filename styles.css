@@ -3,13 +3,20 @@
 .wings,
 .biryani  {
     height: auto;
-    width: 59%;
+    width: 55%;
 }
 
 .home {
     color: #ffffff;
     background-color: rgb(130, 130, 200);
     font-size: 20px;
+}
+
+.top-home {
+    color: #ffffff;
+    background-color: rgb(130, 130, 200);
+    font-size: 20px;
+    float: right;
 }
 
 .page-link {
